@@ -2,43 +2,43 @@
 <!-- Created by generate_opml.py, please don't edit manually. -->
 <opml version="1.0">
     <head>
-        <title>Data science blogs</title>
+        <title>Blogs</title>
     </head>
     <body>
-        <outline text="Data science blogs" title="Data science blogs">
-			<outline type="rss" text="Cube dev" title="Cube dev" xmlUrl="https://blog.statsbot.co/feed" htmlUrl="https://blog.statsbot.co/"/>
-			<outline type="rss" text="Machine Learning Mastery" title="Machine Learning Mastery" xmlUrl="http://machinelearningmastery.com/blog/feed" htmlUrl="https://machinelearningmastery.com/"/>
-			<outline type="rss" text="ML Uber Engineering" title="ML Uber Engineering" xmlUrl="https://eng.uber.com/tag/machine-learning/feed" htmlUrl="https://eng.uber.com/fiberdistributed/"/>
-			<outline type="rss" text="AWS Machine Learning" title="AWS Machine Learning" xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed" htmlUrl="https://aws.amazon.com/blogs/"/>
-			<outline type="rss" text="arXiv.org cs.ML" title="arXiv.org cs.ML" xmlUrl="http://arxiv.org/rss/cs.LG" htmlUrl="https://arxiv.org/list/cs.LG/recent"/>
-			<outline type="rss" text="arXiv.org stat.ML" title="arXiv.org stat.ML" xmlUrl="http://arxiv.org/rss/stat.ML" htmlUrl="https://arxiv.org/list/stat.ML/recent"/>
-			<outline type="rss" text="ML Reddit" title="ML Reddit" xmlUrl="https://www.reddit.com/r/MachineLearning/.rss" htmlUrl="https://www.reddit.com/r/MachineLearning/"/>
-			<outline type="rss" text="ML in production" title="ML in production" xmlUrl="https://mlinproduction.com/feed" htmlUrl="https://mlinproduction.com/"/>
-			<outline type="rss" text="Blog Jay Alammar" title="Blog Jay Alammar" xmlUrl="https://jalammar.github.io/feed.xml" htmlUrl="http://jalammar.github.io/"/>
-			<outline type="rss" text="JMLR recent papers" title="JMLR recent papers" xmlUrl="http://proceedings.mlr.press//feed.xml" htmlUrl="http://www.jmlr.org/jmlr.xml"/>
-			<outline type="rss" text="Blog Distill" title="Blog Distill" xmlUrl="https://distill.pub/rss.xml" htmlUrl="https://distill.pub"/>
-			<outline type="rss" text="Blog inFERENCe" title="Blog inFERENCe" xmlUrl="https://www.inference.vc/rss" htmlUrl="https://www.inference.v"/>
-			<outline type="rss" text="Blog AI Trends" title="Blog AI Trends" xmlUrl="https://www.aitrends.com/feed" htmlUrl="https://www.aitrends.com/"/>
-			<outline type="rss" text="Blog AI Weirdness" title="Blog AI Weirdness" xmlUrl="https://aiweirdness.com/rss" htmlUrl="https://aiweirdness.com/"/>
-			<outline type="rss" text="Berkeley Artificial Intelligence Research" title="Berkeley Artificial Intelligence Research" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog/"/>
-			<outline type="rss" text="Medium - Artificial Intelligence Magazine" title="Medium - Artificial Intelligence Magazine" xmlUrl="https://becominghuman.ai/feed" htmlUrl="https://becominghuman.ai/"/>
-			<outline type="rss" text="MIT AI news" title="MIT AI news" xmlUrl="http://news.mit.edu/rss/topic/artificial-intelligence2" htmlUrl="http://news.mit.edu/"/>
-			<outline type="rss" text="NVIDIA AI Blog" title="NVIDIA AI Blog" xmlUrl="http://feeds.feedburner.com/nvidiablog" htmlUrl="https://blogs.nvidia.com/"/>
-			<outline type="rss" text="Blog AI Paper Review David Stutz" title="Blog AI Paper Review David Stutz" xmlUrl="http://davidstutz.de/feed" htmlUrl="https://davidstutz.de/"/>
-			<outline type="rss" text="AI Reddit" title="AI Reddit" xmlUrl="https://www.reddit.com/r/artificial/.rss" htmlUrl="https://www.reddit.com/r/artificial/"/>
-			<outline type="rss" text="Reddit NN, DL, ML" title="Reddit NN, DL, ML" xmlUrl="https://www.reddit.com/r/neuralnetworks/.rss?format=xml" htmlUrl="https://www.reddit.com/r/neuralnetworks/"/>
-			<outline type="rss" text="Science Daily AI News" title="Science Daily AI News" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/"/>
-			<outline type="rss" text="Blog AI ML - Seita&#x27;s Place" title="Blog AI ML - Seita&#x27;s Place" xmlUrl="https://danieltakeshi.github.io/feed.xml" htmlUrl="https://danieltakeshi.github.io/"/>
-			<outline type="rss" text="Blog literature review" title="Blog literature review" xmlUrl="https://vitalab.github.io/feed.xml" htmlUrl="https://vitalab.github.io/"/>
-			<outline type="rss" text="Blog Andrej Karpathy" title="Blog Andrej Karpathy" xmlUrl="https://medium.com/feed/@karpathy" htmlUrl="https://medium.com/@karpathy"/>
-			<outline type="rss" text="OpenAI Blog" title="OpenAI Blog" xmlUrl="https://openai.com/blog/rss" htmlUrl="https://openai.com/blog/"/>
-			<outline type="rss" text="Microsoft Research Blog" title="Microsoft Research Blog" xmlUrl="https://www.microsoft.com/en-us/research/feed" htmlUrl="https://www.microsoft.com/en-us/research/blog/"/>
-			<outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" htmlUrl="https://ai.googleblog.com/"/>
-			<outline type="rss" text="Blog Fast AI" title="Blog Fast AI" xmlUrl="https://www.fast.ai/atom.xml" htmlUrl="http://nlp.fast.ai/"/>
-			<outline type="rss" text="RL Reddit" title="RL Reddit" xmlUrl="https://www.reddit.com/r/reinforcementlearning/.rss?format=xml" htmlUrl="https://www.reddit.com/r/reinforcementlearning/"/>
-			<outline type="rss" text="RL Weekly" title="RL Weekly" xmlUrl="https://www.getrevue.co/profile/seungjaeryanlee?format=rss" htmlUrl="https://www.getrevue.co/profile/seungjaeryanlee"/>
-			<outline type="rss" text="RL paper review" title="RL paper review" xmlUrl="https://dtransposed.github.io/feed.xml" htmlUrl="https://dtransposed.github.io/"/>
-			<outline type="rss" text="Data Science Central" title="Data Science Central" xmlUrl="http://feeds.feedburner.com/FeaturedBlogPosts-DataScienceCentral?format=xml" htmlUrl="https://www.datasciencecentral.com/"/>
+        <outline text="Blogs" title="Blogs">
+			<outline type="rss" text="Cube dev" title="Cube dev" xmlUrl="https://blog.statsbot.co/feed" htmlUrl="https://blog.statsbot.co/"/>
+			<outline type="rss" text="Machine Learning Mastery" title="Machine Learning Mastery" xmlUrl="http://machinelearningmastery.com/blog/feed" htmlUrl="https://machinelearningmastery.com/"/>
+			<outline type="rss" text="ML Uber Engineering" title="ML Uber Engineering" xmlUrl="https://eng.uber.com/tag/machine-learning/feed" htmlUrl="https://eng.uber.com/fiberdistributed/"/>
+			<outline type="rss" text="AWS Machine Learning" title="AWS Machine Learning" xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed" htmlUrl="https://aws.amazon.com/blogs/"/>
+			<outline type="rss" text="arXiv.org cs.ML" title="arXiv.org cs.ML" xmlUrl="http://arxiv.org/rss/cs.LG" htmlUrl="https://arxiv.org/list/cs.LG/recent"/>
+			<outline type="rss" text="arXiv.org stat.ML" title="arXiv.org stat.ML" xmlUrl="http://arxiv.org/rss/stat.ML" htmlUrl="https://arxiv.org/list/stat.ML/recent"/>
+			<outline type="rss" text="ML Reddit" title="ML Reddit" xmlUrl="https://www.reddit.com/r/MachineLearning/.rss" htmlUrl="https://www.reddit.com/r/MachineLearning/"/>
+			<outline type="rss" text="ML in production" title="ML in production" xmlUrl="https://mlinproduction.com/feed" htmlUrl="https://mlinproduction.com/"/>
+			<outline type="rss" text="Blog Jay Alammar" title="Blog Jay Alammar" xmlUrl="https://jalammar.github.io/feed.xml" htmlUrl="http://jalammar.github.io/"/>
+			<outline type="rss" text="JMLR recent papers" title="JMLR recent papers" xmlUrl="http://proceedings.mlr.press//feed.xml" htmlUrl="http://www.jmlr.org/jmlr.xml"/>
+			<outline type="rss" text="Blog Distill" title="Blog Distill" xmlUrl="https://distill.pub/rss.xml" htmlUrl="https://distill.pub"/>
+			<outline type="rss" text="Blog inFERENCe" title="Blog inFERENCe" xmlUrl="https://www.inference.vc/rss" htmlUrl="https://www.inference.v"/>
+			<outline type="rss" text="Blog AI Trends" title="Blog AI Trends" xmlUrl="https://www.aitrends.com/feed" htmlUrl="https://www.aitrends.com/"/>
+			<outline type="rss" text="Blog AI Weirdness" title="Blog AI Weirdness" xmlUrl="https://aiweirdness.com/rss" htmlUrl="https://aiweirdness.com/"/>
+			<outline type="rss" text="Berkeley Artificial Intelligence Research" title="Berkeley Artificial Intelligence Research" xmlUrl="https://bair.berkeley.edu/blog/feed.xml" htmlUrl="https://bair.berkeley.edu/blog/"/>
+			<outline type="rss" text="Medium - Artificial Intelligence Magazine" title="Medium - Artificial Intelligence Magazine" xmlUrl="https://becominghuman.ai/feed" htmlUrl="https://becominghuman.ai/"/>
+			<outline type="rss" text="MIT AI news" title="MIT AI news" xmlUrl="http://news.mit.edu/rss/topic/artificial-intelligence2" htmlUrl="http://news.mit.edu/"/>
+			<outline type="rss" text="NVIDIA AI Blog" title="NVIDIA AI Blog" xmlUrl="http://feeds.feedburner.com/nvidiablog" htmlUrl="https://blogs.nvidia.com/"/>
+			<outline type="rss" text="Blog AI Paper Review David Stutz" title="Blog AI Paper Review David Stutz" xmlUrl="http://davidstutz.de/feed" htmlUrl="https://davidstutz.de/"/>
+			<outline type="rss" text="AI Reddit" title="AI Reddit" xmlUrl="https://www.reddit.com/r/artificial/.rss" htmlUrl="https://www.reddit.com/r/artificial/"/>
+			<outline type="rss" text="Reddit NN, DL, ML" title="Reddit NN, DL, ML" xmlUrl="https://www.reddit.com/r/neuralnetworks/.rss?format=xml" htmlUrl="https://www.reddit.com/r/neuralnetworks/"/>
+			<outline type="rss" text="Science Daily AI News" title="Science Daily AI News" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" htmlUrl="https://www.sciencedaily.com/"/>
+			<outline type="rss" text="Blog AI ML - Seita&#x27;s Place" title="Blog AI ML - Seita&#x27;s Place" xmlUrl="https://danieltakeshi.github.io/feed.xml" htmlUrl="https://danieltakeshi.github.io/"/>
+			<outline type="rss" text="Blog literature review" title="Blog literature review" xmlUrl="https://vitalab.github.io/feed.xml" htmlUrl="https://vitalab.github.io/"/>
+			<outline type="rss" text="Blog Andrej Karpathy" title="Blog Andrej Karpathy" xmlUrl="https://medium.com/feed/@karpathy" htmlUrl="https://medium.com/@karpathy"/>
+			<outline type="rss" text="OpenAI Blog" title="OpenAI Blog" xmlUrl="https://openai.com/blog/rss" htmlUrl="https://openai.com/blog/"/>
+			<outline type="rss" text="Microsoft Research Blog" title="Microsoft Research Blog" xmlUrl="https://www.microsoft.com/en-us/research/feed" htmlUrl="https://www.microsoft.com/en-us/research/blog/"/>
+			<outline type="rss" text="Google AI Blog" title="Google AI Blog" xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" htmlUrl="https://ai.googleblog.com/"/>
+			<outline type="rss" text="Blog Fast AI" title="Blog Fast AI" xmlUrl="https://www.fast.ai/atom.xml" htmlUrl="http://nlp.fast.ai/"/>
+			<outline type="rss" text="RL Reddit" title="RL Reddit" xmlUrl="https://www.reddit.com/r/reinforcementlearning/.rss?format=xml" htmlUrl="https://www.reddit.com/r/reinforcementlearning/"/>
+			<outline type="rss" text="RL Weekly" title="RL Weekly" xmlUrl="https://www.getrevue.co/profile/seungjaeryanlee?format=rss" htmlUrl="https://www.getrevue.co/profile/seungjaeryanlee"/>
+			<outline type="rss" text="RL paper review" title="RL paper review" xmlUrl="https://dtransposed.github.io/feed.xml" htmlUrl="https://dtransposed.github.io/"/>
+			<outline type="rss" text="Data Science Central" title="Data Science Central" xmlUrl="http://feeds.feedburner.com/FeaturedBlogPosts-DataScienceCentral?format=xml" htmlUrl="https://www.datasciencecentral.com/"/>
 			<outline type="rss" text="Blog John Cook" title="Blog John Cook" xmlUrl="https://www.johndcook.com/blog/feed" htmlUrl="https://www.johndcook.com/blog/services-2/"/>
         </outline>
     </body>
