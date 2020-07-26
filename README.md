@@ -20,7 +20,7 @@ Awesome curated (RSS) feed links related to Machine Learning, Artificial Intelli
 * [Blog AI Weirdness](https://aiweirdness.com/) [(RSS)](https://aiweirdness.com/rss)
 * [Berkeley Artificial Intelligence Research (BAIR)](https://bair.berkeley.edu/blog/) [(RSS)](https://bair.berkeley.edu/blog/feed.xml)
 * [Medium - Artificial Intelligence Magazine](https://becominghuman.ai/) [(RSS)](https://becominghuman.ai/feed)
-* [MIT AI news](http://news.mit.edu/) [(RSS)] (http://news.mit.edu/rss/topic/artificial-intelligence2)
+* [MIT AI news](http://news.mit.edu/) [(RSS)](http://news.mit.edu/rss/topic/artificial-intelligence2)
 * [NVIDIA AI Blog](https://blogs.nvidia.com/) [(RSS)](http://feeds.feedburner.com/nvidiablog)
 * [Blog AI Paper Review David Stutz](https://davidstutz.de/) [(RSS)](http://davidstutz.de/feed)
 * [AI Reddit](https://www.reddit.com/r/artificial/) [(RSS)](https://www.reddit.com/r/artificial/.rss)
