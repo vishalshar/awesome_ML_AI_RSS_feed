@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml xmlns:rssowl="http://www.rssowl.org" version="1.1">
+  <head>
+    <title>RSSOwl Subscriptions</title>
+    <dateModified>Sat, 25 Jul 2020 18:43:22 MDT</dateModified>
+  </head>
+  <body>
+    <outline text="My Feeds" rssowl:isSet="true" rssowl:id="7">
+      <outline text="Machine Learning" rssowl:isSet="false" rssowl:id="11">
+        <outline text="Blog - Cube Dev - Medium" xmlUrl="https://blog.statsbot.co/feed" rssowl:id="1299" />
+        <outline text="Blog - Machine Learning Mastery" xmlUrl="http://machinelearningmastery.com/blog/feed" rssowl:id="1115" />
+        <outline text="Blog - ML Uber " xmlUrl="https://eng.uber.com/tag/machine-learning/feed" rssowl:id="1460" />
+        <outline text="Blog AWS Machine Learning" xmlUrl="https://aws.amazon.com/blogs/machine-learning/feed" rssowl:id="1361" />
+        <outline text="cs.DB updates on arXiv.org" xmlUrl="http://arxiv.org/rss/cs.DB" rssowl:id="373" />
+        <outline text="cs.ML updates on arXiv.org" xmlUrl="http://arxiv.org/rss/cs.LG" rssowl:id="385" />
+        <outline text="MIT News - ML" xmlUrl="http://news.mit.edu/rss/topic/machine-learning" rssowl:id="1147" />
+        <outline text="Reddit - Machine Learning" xmlUrl="https://www.reddit.com/r/MachineLearning/.rss" rssowl:id="1031" />
+        <outline text="stat.ML updates on arXiv.org" xmlUrl="http://arxiv.org/rss/stat.ML" rssowl:id="13" />
+        <outline text="Blog Made With ML" xmlUrl="https://madewithml.com/newsletter/" rssowl:id="9584" />
+        <outline text="Blog ML in Production" xmlUrl="https://mlinproduction.com/feed" rssowl:id="9588" />
+        <outline text="Blog Jay Alammar" xmlUrl="https://jalammar.github.io/feed.xml" rssowl:id="15299" />
+        <outline text="Proceedings of Machine Learning Research" xmlUrl="http://proceedings.mlr.press//feed.xml" rssowl:id="15483" />
+        <outline text="Blog Distill" xmlUrl="https://distill.pub/rss.xml" rssowl:id="16010" />
+        <outline text="Blog inFERENCe" xmlUrl="https://www.inference.vc/rss" rssowl:id="16543" />
+      </outline>
+      <outline text="Data Science" rssowl:isSet="false" rssowl:id="876">
+        <outline text="Featured Blog Posts - Data Science Central" xmlUrl="http://feeds.feedburner.com/FeaturedBlogPosts-DataScienceCentral?format=xml" rssowl:id="878" />
+        <outline text="Blog John D. Cook" xmlUrl="https://www.johndcook.com/blog/feed" rssowl:id="15176" />
+        <outline text="fast.ai NLP" xmlUrl="http://nlp.fast.ai/feed.xml" rssowl:id="16402" />
+        <outline text="NLP The Spectator" xmlUrl="http://blog.shakirm.com/feed" rssowl:id="16411" />
+      </outline>
+      <outline text="Artificial Intelligence" rssowl:isSet="false" rssowl:id="2093">
+        <outline text="AI Trends" xmlUrl="https://www.aitrends.com/feed" rssowl:id="2095" />
+        <outline text="AI Weirdness" xmlUrl="https://aiweirdness.com/rss" rssowl:id="2824" />
+        <outline text="Artificial Lawyer" xmlUrl="https://www.artificiallawyer.com/feed" rssowl:id="2586" />
+        <outline text="Berkeley AI Research " xmlUrl="https://bair.berkeley.edu/blog/feed.xml" rssowl:id="2574" />
+        <outline text="Medium - Artificial Intelligence Magazine" xmlUrl="https://becominghuman.ai/feed" rssowl:id="2752" />
+        <outline text="MIT Artificial intelligence" xmlUrl="http://news.mit.edu/rss/topic/artificial-intelligence2" rssowl:id="2266" />
+        <outline text="NVIDIA AI Blog" xmlUrl="http://feeds.feedburner.com/nvidiablog" rssowl:id="2501" />
+        <outline text="Papers Review AI" xmlUrl="http://davidstutz.de/feed" rssowl:id="2701" />
+        <outline text="Reddit - Artificial Intelligence" xmlUrl="https://www.reddit.com/r/artificial/.rss" rssowl:id="2418" />
+        <outline text="Reddit - NN, DL, ML" xmlUrl="https://www.reddit.com/r/neuralnetworks/.rss?format=xml" rssowl:id="2623" />
+        <outline text="ScienceDaily AI News" xmlUrl="https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml" rssowl:id="2204" />
+        <outline text="Blog Seita's Place" xmlUrl="https://danieltakeshi.github.io/feed.xml" rssowl:id="8238" />
+        <outline text="Blog VITAL Literature Review" xmlUrl="https://vitalab.github.io/feed.xml" rssowl:id="12495" />
+        <outline text="Blog Andrej Karpathy on Medium" xmlUrl="https://medium.com/feed/@karpathy" rssowl:id="15602" />
+        <outline text="Blog Google AI " xmlUrl="http://feeds.feedburner.com/blogspot/gJZg" rssowl:id="15650" />
+        <outline text="Microsoft Research" xmlUrl="https://www.microsoft.com/en-us/research/feed" rssowl:id="16228" />
+        <outline text="Blog Jaejun Yoo's Playground" xmlUrl="http://jaejunyoo.blogspot.com/feeds/posts/default" rssowl:id="16260" />
+        <outline text="OpenAI" xmlUrl="https://openai.com/blog/rss" rssowl:id="16495" />
+      </outline>
+      <outline text="Reinforcement Learning" rssowl:isSet="false" rssowl:id="2621">
+        <outline text="Reddit - Reinforcement Learning" xmlUrl="https://www.reddit.com/r/reinforcementlearning/.rss?format=xml" rssowl:id="2986" />
+        <outline text="RL Weekly seungjaeryanlee" xmlUrl="https://www.getrevue.co/profile/seungjaeryanlee?format=rss" rssowl:id="6108" />
+        <outline text="Blog few-shot learning " xmlUrl="https://mpatacchiola.github.io/blog/feed.xml" rssowl:id="12543" />
+        <outline text="Blog Dtransposed" xmlUrl="https://dtransposed.github.io/feed.xml" rssowl:id="15378" />
+      </outline>
+    </outline>
+  </body>
+</opml>
+
