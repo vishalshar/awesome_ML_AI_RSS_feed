@@ -1,6 +1,5 @@
 # awesome RSS feed
-Awesome curated RSS feed links related to Machine Learning, Artificial Intelligence, Reinforcement Learning
-import rssowl.opml file to your favourite RSS feeder to access below links:
+Awesome curated RSS feed links related to Machine Learning, Artificial Intelligence, Reinforcement Learning. Import rssowl.opml file to your favourite RSS feeder to access below links:
 
 # Machine Learning
 * [Cube dev](https://blog.statsbot.co/)
