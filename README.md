@@ -1,4 +1,4 @@
-# awesome (RSS) feed
+# Awesome (RSS) feed
 Awesome curated (RSS) feed links related to Machine Learning, Artificial Intelligence, Reinforcement Learning. Import rssowl.opml file to your favourite (RSS) feeder to access below links:
 
 # Machine Learning
