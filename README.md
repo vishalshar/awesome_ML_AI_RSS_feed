@@ -46,3 +46,6 @@ Awesome curated RSS feed links related to Machine Learning, Artificial Intellige
 # Data Science
 * Data Science Central https://www.datasciencecentral.com/ [(RSS)](http://feeds.feedburner.com/FeaturedBlogPosts-DataScienceCentral?format=xml)
 * Blog John Cook https://www.johndcook.com/blog/services-2/ [(RSS)](https://www.johndcook.com/blog/feed)
+
+
+[![HitCount](http://hits.dwyl.com/vishalshar/awesome_ML_AI_RSS_feed.svg)](http://hits.dwyl.com/vishalshar/awesome_ML_AI_RSS_feed)
