@@ -48,4 +48,3 @@ Awesome curated RSS feed links related to Machine Learning, Artificial Intellige
 * Blog John Cook https://www.johndcook.com/blog/services-2/ [(RSS)](https://www.johndcook.com/blog/feed)
 
 
-[![HitCount](http://hits.dwyl.com/vishalshar/awesome_ML_AI_RSS_feed.svg)](http://hits.dwyl.com/vishalshar/awesome_ML_AI_RSS_feed)
