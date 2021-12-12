@@ -1,6 +1,8 @@
+<p align="center">
 <div style="width:100%;text-align:center;">
 <a href="https://github.com/vishalshar/awesome_ML_AI_RSS_feed"><img src="https://github.com/vishalshar/awesome_ML_AI_RSS_feed/blob/master/logo.jpg" title="logo" alt="logo"></a>
 </div>
+</p>
 
 # Awesome RSS feed
 Awesome curated RSS feed links related to Machine Learning, Artificial Intelligence, Reinforcement Learning. Import rssowl.opml file to your favourite RSS feeder to access below links
