@@ -38,6 +38,8 @@ Awesome curated RSS feed links related to Machine Learning, Artificial Intellige
 * Google AI Blog https://ai.googleblog.com/ [(RSS)](http://feeds.feedburner.com/blogspot/gJZg)
 * Blog Fast AI http://nlp.fast.ai/ [(RSS)](https://www.fast.ai/atom.xml)
 
+* AnyMesgs (听说了吗？) https://anymesgs.com/ [(RSS)](https://anymesgs.com/rss.xml)
+
 # Reinforcement Learning
 * RL Reddit https://www.reddit.com/r/reinforcementlearning/ [(RSS)](https://www.reddit.com/r/reinforcementlearning/.rss?format=xml)
 * RL Weekly https://www.getrevue.co/profile/seungjaeryanlee [(RSS)](https://www.getrevue.co/profile/seungjaeryanlee?format=rss)
